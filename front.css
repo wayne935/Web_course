@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    text-align: center;
+    background-image: url('assets/white-unsplash.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: #333;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul, ol {
+    margin: 20px 10px;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+table, th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+    ;
+}
+
+th {
+    background: #f4f4f4;
+}
+
+.list-item {
+    border-bottom: 1px solid #eee;
+    padding: 8px 0;
+}
+
+#header {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
